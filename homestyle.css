@@ -78,7 +78,7 @@
     	    	font-weight: 400;
 
     	    }
-    	    .book{
+    	    .book1{
     	    	width: 160px;
     	    	padding: 10px 16px;
     	    	text-align: center;
@@ -86,6 +86,10 @@
     	    	color: white;
     	    	font-size: 14px;
     	    	font-weight: bold;
+				position:absolute;
+				top:50%;
+				left:20%;
+				
     	    }
     	    .icons{
     	    	width: 70%;
@@ -378,7 +382,7 @@
     			overflow: hidden;
     		}
     		.book{
-    			width: 65%;
+    			width: 15%;
     			padding: 8px 16px;
     			overflow: hidden;
     			float: left;
@@ -477,6 +481,7 @@
            }
            .bg{
             width: 100%;
+			
            }
 
             .bginfo h1{
