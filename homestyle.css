@@ -150,12 +150,8 @@
     	    	background-color: white;
     	    	padding-left:30px;
     	    	padding-right: 20px; 
-    	       position: relative; 	
-    	   
-
-    	    	
-    	    	
-    	    }
+    	        position: relative; 
+	    	 	}
     	    .box h2{
     	    	font-size: 34px;
     	    	color: #4A533E;
@@ -218,7 +214,7 @@
     	 			margin-bottom: 20px;
     	 		}
     			.column1 img{
-    				opacity: 0.3;
+    				/* opacity: 0.3; */
 
 
 				}
@@ -236,7 +232,7 @@
     			padding: 4px 10px;
     			background-color: #9BCD52;
     			color: white;
-    			width:48px;
+    			width:75px;
     			font-size: 20px;
     			text-align: center;
 
@@ -258,7 +254,7 @@
     			padding: 4px 10px;
     			background-color: #9BCD52;
     			color: white;
-    			width:48px;
+    			width:75px;
     			font-size: 20px;
     			text-align: center;
     		}
@@ -372,7 +368,7 @@
     			font-weight: bold;
     		}
     		.section{
-    			background-color: #9BCD52;
+    			background-color: skyblue;
     			padding: 25px 0;
     		}
     		.section1{
@@ -382,23 +378,24 @@
     			overflow: hidden;
     		}
     		.book{
-    			width: 15%;
+    			
     			padding: 8px 16px;
     			overflow: hidden;
     			float: left;
 	    }
 	  	.calendar{
-	  		width: 15%;
+	  		
 	  		float: left;
 	  	}
 	  	.now{
 	  		width: 45%;
 	  		float: left;
+			margin-left:30px;
 	  		
 	  		
 	  	}
 	  	.now h1{
-	  		color: white;
+	  		color: black;
 	  		margin-top: 0;
 	  		margin-bottom: 0;
 	  		text-align: start;
@@ -412,10 +409,10 @@
 	  	}
 	    .check{
 	    	width: 15%;
-	    	color: black;
+	    	color: white;
 	    	float: left;
 	    	padding:10px 18px;
-	    	background-color: white;
+	    	background-color: #9BCD52 ;
 	    	text-align: center;
 	    	font-weight: bold;
 	    	margin-top: 20px;
